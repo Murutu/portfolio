@@ -16,7 +16,7 @@ nav > ul > li{
 
 body{
     /* background-image: url("src:tech1.jpg"); */
-    background-image:url("https://media.gettyimages.com/photos/close-view-of-wooden-plank-table-picture-id175166558?s=2048x2048");
+    background-image:url("https://media.gettyimages.com/photos/inside-the-ice-picture-id171135969?s=2048x2048");
 }
 
 #picha{
@@ -25,7 +25,7 @@ body{
 }
 
 #skills{
-    float:right:
+    float:right;
     
 }
 
@@ -36,4 +36,8 @@ body{
 
 #style{
     margin-left: 50%;
+}
+
+nav{
+    border:  2px solid white;
 }

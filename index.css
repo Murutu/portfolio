@@ -16,6 +16,24 @@ nav > ul > li{
 
 body{
     /* background-image: url("src:tech1.jpg"); */
-    background-image:url("https://media.gettyimages.com/photos/full-frame-shot-of-wooden-planks-picture-id922792640?s=2048x2048");
+    background-image:url("https://media.gettyimages.com/photos/close-view-of-wooden-plank-table-picture-id175166558?s=2048x2048");
 }
 
+#picha{
+    float: left;
+    padding: 30px;
+}
+
+#skills{
+    float:right:
+    
+}
+
+#me{
+    float:right;
+    width:20px;
+}
+
+#style{
+    margin-left: 50%;
+}

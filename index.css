@@ -1,0 +1,21 @@
+/* li{
+    display: flex;
+    color: blue;
+    text-align: center;
+} */
+
+nav > ul > li{
+    /* float:left; */
+    padding:10px;
+    background-color: white;
+    display: inline;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    border-radius: 5%;
+}
+
+body{
+    /* background-image: url("src:tech1.jpg"); */
+    background-image:url("https://media.gettyimages.com/photos/full-frame-shot-of-wooden-planks-picture-id922792640?s=2048x2048");
+}
+
